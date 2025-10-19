@@ -73,7 +73,7 @@ button {
 }
 .crew0 {
   width: 98%;
-  height: 400px;
+  height: 60%;
   background-image: url("0.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -82,7 +82,7 @@ button {
 }
 .crew1 {
   width: 98%;
-  height: 400px;
+  height: 60%;
   background-image: url("1.png");
   background-position: center;
   background-repeat: no-repeat;
@@ -121,3 +121,4 @@ th {
   }
 
 }
+
