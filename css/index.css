@@ -72,7 +72,7 @@ button {
   float: top;
 }
 .crew0 {
-  width: 400px;
+  width: 98%;
   height: 400px;
   background-image: url("0.png");
   background-position: center;
@@ -81,7 +81,7 @@ button {
   border-collapse: collapse;
 }
 .crew1 {
-  width: 400px;
+  width: 98%;
   height: 400px;
   background-image: url("1.png");
   background-position: center;
@@ -93,7 +93,7 @@ button {
   position: relative;
   top: -42%;
   color: black;
-  font-size: 10px;
+  font-size: 35px;
   font-family: serif;
  }
 .area {
@@ -119,4 +119,5 @@ th {
   border-collapse: collapse;
   text-align: top;
   }
+
 }
