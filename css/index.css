@@ -72,7 +72,7 @@ button {
   float: top;
 }
 .crew0 {
-  width: 50%;
+  width: 70%;
   height: 600px;
   background-image: url("0.png");
   background-position: center;
@@ -81,7 +81,7 @@ button {
   border-collapse: collapse;
 }
 .crew1 {
-  width: 50%;
+  width: 70%;
   height: 600px;
   background-image: url("1.png");
   background-position: center;
@@ -121,6 +121,7 @@ th {
   }
 
 }
+
 
 
 
